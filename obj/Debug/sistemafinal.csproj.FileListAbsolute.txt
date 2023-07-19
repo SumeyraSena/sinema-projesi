@@ -1,0 +1,14 @@
+C:\Users\Dell PC\source\repos\sistemafinal\bin\Debug\sistemafinal.exe.config
+C:\Users\Dell PC\source\repos\sistemafinal\bin\Debug\sistemafinal.exe
+C:\Users\Dell PC\source\repos\sistemafinal\bin\Debug\sistemafinal.pdb
+C:\Users\Dell PC\source\repos\sistemafinal\obj\Debug\sistemafinal.csprojAssemblyReference.cache
+C:\Users\Dell PC\source\repos\sistemafinal\obj\Debug\sistemafinal.Form1.resources
+C:\Users\Dell PC\source\repos\sistemafinal\obj\Debug\sistemafinal.Properties.Resources.resources
+C:\Users\Dell PC\source\repos\sistemafinal\obj\Debug\sistemafinal.csproj.GenerateResource.cache
+C:\Users\Dell PC\source\repos\sistemafinal\obj\Debug\sistemafinal.csproj.CoreCompileInputs.cache
+C:\Users\Dell PC\source\repos\sistemafinal\obj\Debug\sistemafinal.exe
+C:\Users\Dell PC\source\repos\sistemafinal\obj\Debug\sistemafinal.pdb
+C:\Users\Dell PC\source\repos\sistemafinal\obj\Debug\sistemafinal.frmFilmEkle.resources
+C:\Users\Dell PC\source\repos\sistemafinal\obj\Debug\sistemafinal.frmSalonEkle.resources
+C:\Users\Dell PC\source\repos\sistemafinal\obj\Debug\sistemafinal.frmSatisListeleme.resources
+C:\Users\Dell PC\source\repos\sistemafinal\obj\Debug\sistemafinal.frmSeansEkle.resources
